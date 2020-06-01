@@ -42,7 +42,7 @@ html, body {
     color: #fff !important;
     text-transform: uppercase;
     text-decoration: none;
-    background: #2979FF;
+    background: linear-gradient(to right, #bc4e9c, #f80759); /* Chrome 10-25, Safari 5.1-6 */
     padding: 20px;
     border-radius: 5px;
     display: inline-block;
